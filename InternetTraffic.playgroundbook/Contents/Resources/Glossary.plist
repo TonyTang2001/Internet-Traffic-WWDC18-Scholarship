@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>HTTP</key>
+		<dict>
+			<key>Definition</key>
+			<string>refers to Hypertext Transfer Protocol</string>
+		</dict>
+		<key>HTTPS</key>
+		<dict>
+			<key>Definition</key>
+			<string>Hyper Text Transfer Protocol Secure is a secure version of HTTP</string>
+		</dict>
+		<key>Files</key>
+		<dict>
+			<key>Definition</key>
+			<string>includes Text, Graphic Image, Sound, Video, and other Multimedia files</string>
+		</dict>
+		<key>Decode</key>
+		<dict>
+			<key>Definition</key>
+			<string>Transfer human-unreadable codes into visual Webpages.</string>
+		</dict>
+		<key>HTTP-Request</key>
+		<dict>
+			<key>Definition</key>
+			<string>Usually a URL (Uniform Resource Locator)  Begins with &quot;http://&quot;</string>
+		</dict>
+		<key>Encryption</key>
+		<dict>
+			<key>Definition</key>
+			<string>Process of Converting Data into Codes to Prevent Unauthorized Access</string>
+		</dict>
+		<key>SSL</key>
+		<dict>
+			<key>Definition</key>
+			<string>Secure Sockets Layer</string>
+		</dict>
+		<key>TLS</key>
+		<dict>
+			<key>Definition</key>
+			<string>Transport Layer Security</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

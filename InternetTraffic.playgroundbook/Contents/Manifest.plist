@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Internet Traffic</string>
+	<key>Description</key>
+	<string>Learn the basic knowledges of internet traffic and how internet works</string>
+	<key>Chapters</key>
+	<array>
+		<string>Introduction.playgroundchapter</string>
+		<string>Structure.playgroundchapter</string>
+		<string>Web-Security.playgroundchapter</string>
+		<string>Ending.playgroundchapter</string>
+	</array>
+	<key>ContentIdentifier</key>
+	<string>com.TonyTang.playgroundbook.InternetTraffic</string>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>ImageReference</key>
+	<string>InternetTraffic_Logo1_Sized.png</string>
+	<key>SwiftVersion</key>
+	<string>3.1</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.3</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+</dict>
+</plist>
